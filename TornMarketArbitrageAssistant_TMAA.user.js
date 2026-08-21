@@ -5,6 +5,9 @@
 // @description  Calculates profitable arbitrage opportunities on the item market and highlights them in green.
 // @author       ShavedW00kie (Torn: ThaWookie [2954173] )
 // @match        https://www.torn.com/page.php?sid=ItemMarket*
+// @homepageURL  https://github.com/ShavedW00kie
+// @downloadURL  
+// @updateURL    
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
