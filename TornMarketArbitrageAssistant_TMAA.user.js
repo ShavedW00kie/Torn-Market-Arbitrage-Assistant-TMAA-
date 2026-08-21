@@ -6,8 +6,8 @@
 // @author       ShavedW00kie (Torn: ThaWookie [2954173] )
 // @match        https://www.torn.com/page.php?sid=ItemMarket*
 // @homepageURL  https://github.com/ShavedW00kie
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/ShavedW00kie/Torn-Market-Arbitrage-Assistant-TMAA-/raw/refs/heads/main/TornMarketArbitrageAssistant_TMAA.user.js
+// @updateURL    https://github.com/ShavedW00kie/Torn-Market-Arbitrage-Assistant-TMAA-/raw/refs/heads/main/TornMarketArbitrageAssistant_TMAA.user.js
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
